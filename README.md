@@ -1,7 +1,7 @@
 # spookify
 **Assignment for Program Ellective**
 
-1111. 基本介绍
+1. 基本介绍
 
    常规JavaWeb项目
 
